@@ -38,14 +38,14 @@ public class Question6
     public static void main(String[] args) {
         List<Employee1> list = new ArrayList<>();
 
-        Employee1 emp = new Employee1("payal",28);
+        Employee1 emp = new Employee1("himanshi",20);
 
-        list.add(new Employee1("abc", 22));
-        list.add(new Employee1("xyz", 23));
-        list.add(new Employee1("nbc", 27));
-        list.add(new Employee1("abc", 26));
-        list.add(new Employee1("nnc", 21));
-        list.add(new Employee1("naa", 25));
+        list.add(new Employee1("peter", 22));
+        list.add(new Employee1("john", 54));
+        list.add(new Employee1("vans",65));
+        list.add(new Employee1("kitty", 20));
+        list.add(new Employee1("ruby", 22));
+        list.add(new Employee1("shah", 21));
 
 
         System.out.println("The required employees are: ");
